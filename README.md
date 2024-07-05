@@ -1,6 +1,6 @@
 <br>
 
-## PRABATH-MD 👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
+## JANJUA-MD 👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
 
 <br>
 
@@ -9,8 +9,8 @@
 <br>
  
   <p align="center">  
-  <a href="https://telegra.ph/file/1743544c222ffd613c219.jpg">
-    <img alt="prabath-md" height="300" src="https://telegra.ph/file/1743544c222ffd613c219.jpg">
+  <a href="https://telegra.ph/file/d8e43a54364858904bd4a.jpg">
+    <img alt="JANJUA_MD" height="300" src="https://telegra.ph/file/d8e43a54364858904bd4a.jpg">
     
   
   </a>
@@ -60,7 +60,7 @@
 
 ---
 
-## 👑 **`PRABATH-MD BOT OWNERS,`** 👑
+## 👑 **`JANJUA-MD BOT OWNERS,`** 👑
 
 
    <a href="https://github.com/prabathLK/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
