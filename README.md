@@ -38,7 +38,7 @@
 <br>
 <br>
 
-<a href="https://whatsapp.com/channel/0029Va5dJKyJpe8oqDXUjI3x"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20Join%20Our%20WhatsApp%20Channel-black" alt="📎 Join Our WhatsApp Channel" width="300"></a>
+<a href="https://chat.whatsapp.com/Jwx95h5RhGkLmfJ1bUqCrb"><img src=",https://telegra.ph/file/d8e43a54364858904bd4a.jpg" alt="📎 Join Our WhatsApp Channel" width="300"></a>
 
 <br>
 
